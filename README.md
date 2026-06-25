@@ -118,8 +118,6 @@ Revenue and profitability were recalculated under different business scenarios a
 
 ## Dashboard Preview
 
-_Add dashboard screenshots here._
-
 ```html
 <p align="center">
   <img src="assets/dashboard.png" width="900">
